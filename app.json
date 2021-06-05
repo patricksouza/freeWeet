@@ -1,0 +1,12 @@
+{
+  "name": "freeWeet",
+  "displayName": "freeWeet",
+  "expo": {
+    "name": "freeWeet",
+    "slug": "freeWeet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
